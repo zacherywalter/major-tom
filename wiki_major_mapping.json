@@ -1,4 +1,14 @@
 {
+"0":["hose", "sew", "easy"],
+"1":["hat", "hate", "hot"],
+"2":["hen", "know", "new"],
+"3":["home", "aim", "yummy"],
+"4":["arrow", "row", "hairy"],
+"5":["whale", "heal", "oily"],
+"6":["shoe", "chew", "itchy"],
+"7":["cow", "hook", "gay"],
+"8":["hoof", "view", "heavy"],
+"9":["pie", "buy", "happy"],
 "00":["sauce", "assess", "sissy"],
 "01":["seed",  "swat", "sad"],
 "02":[ "sun", "assign", "snowy"],
@@ -98,5 +108,5 @@
 "96":[ "pouch", "patch", "bushy"],
 "97":[ "bike", "poke", "back"],
 "98":[ "beef", "pave", "puffy"],
-"99":[ "pipe", "pop", "baby"],
+"99":[ "pipe", "pop", "baby"]
 }
